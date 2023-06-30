@@ -1,0 +1,12 @@
+<html><body style="background-color:#c2c2a3;">
+<center>
+<h1  >My Likes</h1>
+<img src="C:\Users\Admin\Downloads\artmy.jpg" width="400" lenght="300"> 
+<img src="C:\Users\Admin\Downloads\sss.jpg" width="400" lenght="300"> 
+<img src="C:\Users\Admin\Downloads\wws.jpg" width="400" lenght="300"> 
+<img src="C:\Users\Admin\Downloads\rr.jpg" width="400" lenght="300"> 
+<img src="C:\Users\Admin\Downloads\ckk.jpg" width="400" lenght="300"> 
+<br>
+<a href="REPLACEMENTBITCH.html"> Back to Main </a>
+</center>
+</body></html>
